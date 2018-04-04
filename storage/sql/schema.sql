@@ -963,5 +963,5 @@ GO
 INSERT INTO [dbo].[JobStatus] ([Id] ,[Name] ,[Description]) VALUES (3 ,'Approved' ,'Job is Approved')
 GO
 
-
+INSERT INTO [dbo].[Users] ([Name] ,[Email], [RoleId]) VALUES ('MGP' ,'meghshyam.prasad@videoken.com' ,2)
 
